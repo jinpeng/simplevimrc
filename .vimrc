@@ -1,7 +1,7 @@
 " Vundle configuration
 set nocompatible              " be iMproved, required
 filetype off                  " required
-set rtp+=~/.vim/bundle/vundle/ " set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim/ " set the runtime path to include Vundle and initialize
 call vundle#begin()
 
 " Plugins
